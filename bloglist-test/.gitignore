@@ -1,0 +1,4 @@
+# ignoring modules path
+/node_modules
+
+.env
